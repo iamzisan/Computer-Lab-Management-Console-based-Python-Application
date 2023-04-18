@@ -1,0 +1,16 @@
+{
+    "computer_list": [
+        {
+            "pc_number": "001",
+            "OS": "Windows",
+            "Status": "On"
+            
+        },
+        {
+            "pc_number": "002",
+            "OS": "Mac",
+            "Status": "Off"
+        }
+    ]
+}
+
